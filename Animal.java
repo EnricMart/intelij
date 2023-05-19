@@ -1,5 +1,5 @@
 public class Animal{
-    static final String perro ="/^-----^\\\n" +
+    static final String perro1 ="/^-----^\\\n" +
             "V  o o  V\n" +
             " |  Y  |\n" +
             "  \\ Q /\n" +
